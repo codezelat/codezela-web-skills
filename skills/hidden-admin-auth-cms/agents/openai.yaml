@@ -1,0 +1,8 @@
+interface:
+  display_name: "Hidden Admin Auth CMS"
+  short_description: "Admin-only auth and CMS flows"
+  brand_color: "#4B5563"
+  default_prompt: "Use $hidden-admin-auth-cms to build this hidden-admin feature with path-safe auth and CRUD."
+policy:
+  allow_implicit_invocation: true
+

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Frontend Polish Shadcn QA"
+  short_description: "Figma-accurate responsive UI"
+  brand_color: "#BE123C"
+  default_prompt: "Use $frontend-polish-shadcn-qa to implement this UI with Figma/design-source parity, responsive behavior, and minimal shadcn-based polish."
+policy:
+  allow_implicit_invocation: true

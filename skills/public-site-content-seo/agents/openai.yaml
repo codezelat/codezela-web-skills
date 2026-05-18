@@ -1,0 +1,7 @@
+interface:
+  display_name: "Public Site Content SEO"
+  short_description: "Research, copy, SEO, previews"
+  brand_color: "#2F6B1F"
+  default_prompt: "Use $public-site-content-seo to research, polish, and verify this public page with real copy, metadata, and no placeholders."
+policy:
+  allow_implicit_invocation: true

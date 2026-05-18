@@ -1,0 +1,8 @@
+interface:
+  display_name: "Forms Email Captcha"
+  short_description: "Truthful forms, email, CAPTCHA"
+  brand_color: "#0E7490"
+  default_prompt: "Use $forms-email-captcha to build this form with real email delivery, CAPTCHA checks, and truthful errors."
+policy:
+  allow_implicit_invocation: true
+

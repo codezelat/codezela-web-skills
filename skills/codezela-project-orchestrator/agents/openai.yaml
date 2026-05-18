@@ -1,0 +1,8 @@
+interface:
+  display_name: "Codezela Project Orchestrator"
+  short_description: "Coordinate full production workflows"
+  brand_color: "#052E16"
+  default_prompt: "Use $codezela-project-orchestrator to run the right Codezela skills in sequence for this production web task."
+policy:
+  allow_implicit_invocation: true
+

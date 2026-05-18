@@ -1,0 +1,8 @@
+interface:
+  display_name: "Database Content CRUD"
+  short_description: "Safe schema, seeds, and CRUD"
+  brand_color: "#7C3AED"
+  default_prompt: "Use $database-content-crud to add this database-backed content model with migrations, slugs, ordering, and verification."
+policy:
+  allow_implicit_invocation: true
+

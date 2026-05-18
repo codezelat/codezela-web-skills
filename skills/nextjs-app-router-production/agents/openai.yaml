@@ -1,0 +1,8 @@
+interface:
+  display_name: "Next.js App Router Production"
+  short_description: "Modern Next.js production patterns"
+  brand_color: "#111827"
+  default_prompt: "Use $nextjs-app-router-production to implement this Next.js App Router change using current docs and repo patterns."
+policy:
+  allow_implicit_invocation: true
+

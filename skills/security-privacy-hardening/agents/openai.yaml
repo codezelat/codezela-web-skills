@@ -1,0 +1,8 @@
+interface:
+  display_name: "Security Privacy Hardening"
+  short_description: "AuthZ, secrets, and abuse controls"
+  brand_color: "#991B1B"
+  default_prompt: "Use $security-privacy-hardening to audit and fix this security-sensitive path."
+policy:
+  allow_implicit_invocation: true
+

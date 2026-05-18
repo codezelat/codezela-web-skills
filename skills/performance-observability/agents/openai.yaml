@@ -1,0 +1,7 @@
+interface:
+  display_name: "Performance Observability"
+  short_description: "Lighthouse and Web Vitals"
+  brand_color: "#EA580C"
+  default_prompt: "Use $performance-observability to improve speed, run production-build Lighthouse where feasible, and verify real bottlenecks."
+policy:
+  allow_implicit_invocation: true

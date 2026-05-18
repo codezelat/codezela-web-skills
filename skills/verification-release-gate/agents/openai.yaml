@@ -1,0 +1,7 @@
+interface:
+  display_name: "Verification Release Gate"
+  short_description: "Tests, browser checks, final proof"
+  brand_color: "#166534"
+  default_prompt: "Use $verification-release-gate to test, browser-check, visually verify, and prove this work before claiming it is done."
+policy:
+  allow_implicit_invocation: true

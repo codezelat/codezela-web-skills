@@ -1,0 +1,7 @@
+interface:
+  display_name: "Media Storage Assets"
+  short_description: "Image sourcing, uploads, cleanup"
+  brand_color: "#B45309"
+  default_prompt: "Use $media-storage-assets to source, optimize, upload, render, and verify this media workflow end to end."
+policy:
+  allow_implicit_invocation: true

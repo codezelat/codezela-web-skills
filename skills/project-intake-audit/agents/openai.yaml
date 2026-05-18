@@ -1,0 +1,8 @@
+interface:
+  display_name: "Project Intake Audit"
+  short_description: "Map repo context before implementation"
+  brand_color: "#0F3D2E"
+  default_prompt: "Use $project-intake-audit to inspect this repo and identify the exact implementation path before editing."
+policy:
+  allow_implicit_invocation: true
+

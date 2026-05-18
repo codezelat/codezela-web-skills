@@ -1,0 +1,8 @@
+interface:
+  display_name: "Deployment Env Handoff"
+  short_description: "Env, docs, and deploy readiness"
+  brand_color: "#4338CA"
+  default_prompt: "Use $deployment-env-handoff to prepare this project for deployment with env, docs, and live-domain checks."
+policy:
+  allow_implicit_invocation: true
+
